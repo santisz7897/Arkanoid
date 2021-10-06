@@ -1,12 +1,12 @@
-//ID: 208985424
+//ID: 324603422
 package arkanoid;
 
 import arkanoid.geometry.Point;
 
 /**
- * @author ido grossman <idoddii@gmail.com>
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
  * @version 1.
- * @since 21-03-2021
+ * @since 18-04-2021
  */
 public class Velocity {
 

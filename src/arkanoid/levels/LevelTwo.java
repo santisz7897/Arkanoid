@@ -11,9 +11,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author ido grossman <idoddii@gmail.com>
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
  * @version 1.
- * @since 04-06-2021
+ * @since 18-04-2021
  */
 public class LevelTwo implements LevelInformation {
     /**

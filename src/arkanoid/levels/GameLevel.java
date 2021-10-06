@@ -32,9 +32,9 @@ import java.awt.Color;
 import java.util.List;
 
 /**
- * @author ido grossman <idoddii@gmail.com>
- * @version 3.
- * @since 20-04-2021
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
+ * @version 1.
+ * @since 18-04-2021
  */
 public class GameLevel implements Animation {
 

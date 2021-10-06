@@ -1,4 +1,4 @@
-// ID: 208985424
+// ID: 324603422
 package arkanoid.collidables;
 
 import arkanoid.levels.GameLevel;
@@ -20,9 +20,9 @@ import java.util.List;
 import java.awt.Color;
 
 /**
- * @author ido grossman <idoddii @ gmail.com>
- * @version 2.
- * @since 16-04-2021
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
+ * @version 1.
+ * @since 18-04-2021
  */
 public class Block implements Collidable, Sprite, HitNotifier {
 

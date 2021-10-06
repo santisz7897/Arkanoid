@@ -1,13 +1,13 @@
-// ID: 208985424
+// ID: 324603422
 
 package arkanoid.sprites;
 
 import biuoop.DrawSurface;
 
 /**
- * @author ido grossman <idoddii@gmail.com>
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
  * @version 1.
- * @since 17-04-2021
+ * @since 18-04-2021
  */
 public interface Sprite {
     /**

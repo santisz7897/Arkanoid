@@ -1,4 +1,4 @@
-//ID: 208985424
+//ID: 324603422
 package arkanoid.sprites;
 // imports from the main arkanoid package.
 import arkanoid.levels.GameLevel;
@@ -13,9 +13,9 @@ import biuoop.DrawSurface;
 import java.awt.Color;
 
 /**
- * @author ido grossman <idoddii@gmail.com>
- * @version 2.
- * @since 21-03-2021
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
+ * @version 1.
+ * @since 18-04-2021
  */
 public class Ball implements Sprite {
 

@@ -1,4 +1,4 @@
-// ID: 208985424
+// ID: 324603422
 package arkanoid.sprites;
 
 import arkanoid.listeners.Counter;
@@ -7,9 +7,9 @@ import biuoop.DrawSurface;
 import java.awt.Color;
 
 /**
- * @author ido grossman <idoddii@gmail.com>
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
  * @version 1.
- * @since 20-05-2021
+ * @since 18-04-2021
  */
 public class ScoreIndicator implements Sprite {
 

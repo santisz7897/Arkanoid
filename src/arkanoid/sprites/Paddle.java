@@ -1,4 +1,4 @@
-// ID: 208985424
+// ID: 324603422
 package arkanoid.sprites;
 
 import arkanoid.levels.GameLevel;
@@ -16,7 +16,7 @@ import biuoop.KeyboardSensor;
 import java.awt.Color;
 
 /**
- * @author ido grossman <idoddii @ gmail.com>
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
  * @version 1.
  * @since 18-04-2021
  */

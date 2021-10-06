@@ -1,4 +1,4 @@
-//ID: 208985424
+//ID: 324603422
 import arkanoid.animation.AnimationRunner;
 import arkanoid.levels.LevelOne;
 import arkanoid.levels.LevelTwo;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author ido grossman <idoddii @ gmail.com>
+ * @author Santiago Szterenberg <santisz7897@gmail.com>
  * @version 1.
  * @since 18-04-2021
  */
